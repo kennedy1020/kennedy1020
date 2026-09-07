@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for defensive sec
 
 | Skill | Associated Project |
 | :--- | :--- |
-| **SIEM Implementation & Log Analysis** | [Wazuh Telemetry & Log Monitoring Lab](https://github.com/KennedyAdongo) |
+| **SOC Automation ** | <a href="https://github.com/kennedy1020/SOC-Automation-Project/tree/main"></a>|
 | **Network Traffic Monitoring & Analysis** | [Wireshark Packet Analysis & Traffic Inspection](https://github.com/KennedyAdongo) |
 | **Vulnerability Assessment & Web Security** | [Flask Vulnerability Testing & Patching](https://github.com/KennedyAdongo) |
 | **Endpoint Security & Telemetry Tracking** | [Windows Registry & File Integrity Monitoring](https://github.com/KennedyAdongo) |
@@ -57,3 +57,4 @@ My journey in computer science has led me to develop a passion for defensive sec
 
 - **Wireshark Packet Analysis & Protocol Inspection**
   Captured and evaluated network traffic streams to inspect protocol behaviors, analyze packet headers, and identify anomalous network patterns.
+- <a href="https://github.com/kennedy1020/SOC-Automation-Project/tree/main">SOC Automation Project</a>
