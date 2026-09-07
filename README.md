@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for defensive sec
 
 | Skill | Associated Project |
 | :--- | :--- |
-| **SOC Automation ** | <a href="https://github.com/kennedy1020/SOC-Automation-Project/tree/main"></a>|
+| **SOC Automation ** | <a href="https://github.com/kennedy1020/SOC-Automation-Project/tree/main">SOC Automation</a>|
 | **Network Traffic Monitoring & Analysis** | [Wireshark Packet Analysis & Traffic Inspection](https://github.com/KennedyAdongo) |
 | **Vulnerability Assessment & Web Security** | [Flask Vulnerability Testing & Patching](https://github.com/KennedyAdongo) |
 | **Endpoint Security & Telemetry Tracking** | [Windows Registry & File Integrity Monitoring](https://github.com/KennedyAdongo) |
