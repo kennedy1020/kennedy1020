@@ -1,60 +1,55 @@
-# Hello, I'm Kennedy Adongo 👋
+# Hi, I'm Kennedy Adongo 👋
 
-### 📫 Connect with Me
+**Founder @ [Kentechy](https://github.com/kentechy)** | **Cybersecurity Student @ GCTU** | **Security Tool Builder**
 
-- **LinkedIn:** [Kennedy Adongo](https://linkedin.com/in/kennedy-adongo7)
-- **GitHub:** [KennedyAdongo](https://github.com/KennedyAdongo)
-  
-I am a Level 100 Computer Science student at Ghana Communication Technology University with a strong specialization in Defensive Cybersecurity, Security Information and Event Management (SIEM), and Threat Analysis.
+I build developer-first security tools that bridge the gap between rapid application development ("vibe coding") and rigorous software supply chain defense. Certified through the **Google Cybersecurity Professional** program with background experience in IT operations at the Ghana Armed Forces.
 
 ---
 
-### 🎯 Objective
+### 🛡️ What I'm Focused On
 
-My journey in computer science has led me to develop a passion for defensive security operations and threat detection. I am actively building hands-on experience in log monitoring, network protocol analysis, and incident response, aiming to excel as a **Security Operations Center (SOC) Tier 1 Analyst**.
-
----
-
-### 🛠️ Skills & Associated Projects
-
-| Skill | Associated Project |
-| :--- | :--- |
-| **SOC Automation ** | <a href="https://github.com/kennedy1020/SOC-Automation-Project/tree/main">SOC Automation</a>|
-| **Network Traffic Monitoring & Analysis** | [Wireshark Packet Analysis & Traffic Inspection](https://github.com/KennedyAdongo) |
-| **Vulnerability Assessment & Web Security** | [Flask Vulnerability Testing & Patching](https://github.com/KennedyAdongo) |
-| **Endpoint Security & Telemetry Tracking** | [Windows Registry & File Integrity Monitoring](https://github.com/KennedyAdongo) |
-| **Scripting & Tool Configuration** | [Visual Studio Code & C++ Security Utilities](https://github.com/KennedyAdongo) |
+- 🚀 **Kentechy:** Architecting automated security utilities, AST scanners, and web defense tools.
+- 🔍 **Defensive Security & Blue Team:** Threat detection, SIEM log analysis, and endpoint monitoring.
+- ⚡ **Full-Stack & Automation:** Rapid prototyping with TypeScript, Next.js, Python, and Bash security scripts.
 
 ---
 
-### 🧰 Tools & Technologies
+### 🛠️ Languages & Technical Toolkit
 
-#### Network Analysis & Traffic Monitoring
-- Wireshark
+#### Security & Operations
+![SIEM](https://img.shields.io/badge/SIEM-Threat_Detection-0052CC?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Kali_|_Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab_Env-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-#### Endpoint & System Security
-- Kali Linux | VirtualBox | Sysmon
-
-#### SIEM & Threat Detection
-- Wazuh SIEM | Burp Suite | CyberChef
-
----
-
-### 📜 Certifications
-
-- Google Cybersecurity Professional Certificate
-- Ethical Hacking Course (Elevify)
+#### Languages & Development
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-### 🔬 Projects
+### 📌 Pinned & Active Work
 
-- **Wazuh Telemetry & Log Monitoring Lab**
-  Configured a local SOC monitoring lab utilizing a Wazuh Manager on Linux and a Windows agent to track File Integrity Monitoring (FIM) and Windows Registry telemetry.
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| **Kentechy Core** | Web & App vulnerability scanning engine | TypeScript, Python, REST APIs |
+| **AST & Supply Chain Defense** | Dependency slopsquatting detection & SARIF reporting | Node.js, AST Analysis, GitHub Actions |
+| **SOC Detection Labs** | Telemetry ingestion, Sysmon logs, & alert tuning | Wazuh / SIEM, VirtualBox, Linux |
 
-- **Local Flask Application Vulnerability Assessment**
-  Deployed and tested a vulnerable Python Flask application to identify, analyze, and patch server-side business logic validation flaws.
+---
 
-- **Wireshark Packet Analysis & Protocol Inspection**
-  Captured and evaluated network traffic streams to inspect protocol behaviors, analyze packet headers, and identify anomalous network patterns.
-- <a href="https://github.com/kennedy1020/SOC-Automation-Project/tree/main">SOC Automation Project</a>
+### 📈 GitHub Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kennedy's GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kennedy_Adongo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-adongo7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYL3%2FwaYJRlulLlKzv1ZX3A%3D%3D)
+[![Kentechy](https://img.shields.io/badge/Organization-Kentechy-00D2FF?style=flat-square&logo=github&logoColor=black)] (https://github.com/kennedy1020)
